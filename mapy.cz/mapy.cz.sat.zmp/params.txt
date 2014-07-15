@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=82
+GUID={A318A8D6-6320-4EE1-A57F-4B142DD49988}
+asLayer=0
+name=Satellite (Mapy.cz)
+name_en=Satellite (Mapy.cz)
+name_uk=Satellite (Mapy.cz)
+ParentSubMenu=Mapy.cz
+ParentSubMenu_en=Mapy.cz
+ParentSubMenu_uk=Mapy.cz
+NameInCache=Mapy.cz.sat
+DefURLBase=http://m3.mapserver.mapy.cz/ophoto
+ContentType=image/gif,image/jpeg,image/png
+Ext=.jpg
+projection=3
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=1
+Sleep=0
+BanIfLen=0

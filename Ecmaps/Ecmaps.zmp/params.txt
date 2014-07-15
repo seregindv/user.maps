@@ -1,0 +1,21 @@
+[PARAMS]
+pnum=1
+GUID={CBA03063-23D9-4FA4-931A-9182B98644B2}
+name=По умолчанию
+name_en=Default
+name_uk=По умолчанию
+ParentSubMenu=EcMaps
+ParentSubMenu_en=EcMaps
+ParentSubMenu_uk=EcMaps
+asLayer=0
+DefURLBase=http://at.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=bayern&MapStyle=t
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=ecmap
+separator=0
+Ext=.png
+UseDwn=1
+Sleep=0
+DefHotKey=77
+ContentType=image/jpeg

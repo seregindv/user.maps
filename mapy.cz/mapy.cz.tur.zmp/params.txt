@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=83
+GUID={A318A8D6-6320-4EE1-A57F-4B142DD49977}
+asLayer=0
+name=Turist (Mapy.cz)
+name_en=Turist (Mapy.cz)
+name_uk=Turist (Mapy.cz)
+ParentSubMenu=Mapy.cz
+ParentSubMenu_en=Mapy.cz
+ParentSubMenu_uk=Mapy.cz
+NameInCache=Mapy.cz.tur
+DefURLBase=http://m3.mapserver.mapy.cz/turist
+ContentType=image/gif,image/jpeg,image/png
+Ext=.gif
+projection=3
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=1
+Sleep=0
+BanIfLen=0

@@ -1,0 +1,6 @@
+var
+  mt: string;
+begin 
+ mt := RegExprReplaceMatchSubStr(GetURLBase, 'at\.cdn', 'at'+inttostr( Random(4) )+'.cdn' );    
+ ResultURL := mt+'&TileX='+inttostr(GetX)+'&TileY='+inttostr(GetY)+'&ZoomLevel='+inttostr(GetZ-1);
+end.

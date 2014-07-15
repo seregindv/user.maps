@@ -1,0 +1,10 @@
+var Ymax:integer;
+
+begin 
+  Ymax := round(intpower(2,(GetZ-1))-1);
+
+  ResultURL:=GetUrlBase+'/'+inttostr(GetZ-1)+'_'+IntToHex(GetX*round(intpower(2,(21-GetZ))),1)+'00_'+IntToHex((Ymax-GetY)*round(intpower(2,(21-GetZ))),1)+'00';
+end.
+
+
+

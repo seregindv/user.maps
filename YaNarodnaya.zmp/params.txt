@@ -1,0 +1,22 @@
+[PARAMS]
+pnum=101
+GUID={7245FA43-70FB-4ED7-8EF5-A6326F55BBA9}
+asLayer=0
+name=Яндекс Карты x2 (Народная)
+name_en=Yandex Maps x2 (Narodnaya)
+name_uk=Яндекс Карты x2 (Народная)
+ParentSubMenu=Яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=Яндекс
+NameInCache=yanarodnaya2
+DefURLBase=http://01.pvec.maps.yandex.net/?l=pmap&scale=2&lang=ru-RU&x=
+ContentType=image/png
+Ext=.png
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Sleep=0
+DefHotKey=55
+DelAfterShow=0

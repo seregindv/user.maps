@@ -1,0 +1,21 @@
+[PARAMS]
+pnum=100
+GUID={F0E8BCC4-6E5A-4ABB-BF94-7EF908A716AD}
+name=Карта x2 (Яндекс.Карты)
+name_en=Map x2 (Yandex.Maps)
+name_uk=Карта x2 (Яндекс.Карты)
+ParentSubMenu=Яндекс
+ParentSubMenu_en=Yandex
+ParentSubMenu_uk=Яндекс
+asLayer=0
+DefURLBase=http://vec01.maps.yandex.net/tiles?l=map&scale=2&x=
+projection=2
+sradiusa=6378137
+sradiusb=6356752
+NameInCache=yamapng2
+separator=0
+Ext=.png
+UseDwn=1
+Sleep=0
+DefHotKey=81
+ContentType=image/png

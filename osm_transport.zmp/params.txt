@@ -1,0 +1,24 @@
+[PARAMS]
+pnum=200
+GUID={B41A9986-A207-49E1-BBE8-8C0811AF3802}
+asLayer=0
+name=OpenStreetMap Transport
+name_uk=Транспорт (OpenStreetMap)
+ParentSubMenu=OSM
+ParentSubMenu_en=OSM
+ParentSubMenu_uk=OSM
+NameInCache=osm_transport
+DefURLBase=http://a.tile.thunderforest.com/transport
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+separator=0
+UseDwn=1
+Sleep=0
+DefHotKey=48
+PARENTSUBMENU=OSM
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=© OpenStreetMap contributors, CC-BY-SA. Tiles courtesy of Andy Allan.

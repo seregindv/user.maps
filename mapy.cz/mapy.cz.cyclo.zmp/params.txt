@@ -1,0 +1,26 @@
+[PARAMS]
+pnum=86
+GUID={A318A8D6-6320-4EE1-A57F-4B142DD49922}
+asLayer=1
+name=Cyclo (Mapy.cz)
+name_en=Cyclo (Mapy.cz)
+name_uk=Cyclo (Mapy.cz)
+ParentSubMenu=Mapy.cz
+ParentSubMenu_en=Mapy.cz
+ParentSubMenu_uk=Mapy.cz
+NameInCache=Mapy.cz.cyclo
+DefURLBase=http://m3.mapserver.mapy.cz/tcyklo
+ContentType=image/png
+Ext=.png
+projection=3
+sradiusa=6378137
+sradiusb=6378137
+separator=0
+UseDwn=1
+Usestick=1
+UseGenPrevious=1
+Usedel=1
+Usesave=1
+UseAntiBan=1
+Sleep=0
+BanIfLen=0
