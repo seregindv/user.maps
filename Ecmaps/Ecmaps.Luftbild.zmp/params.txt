@@ -2,7 +2,7 @@
 pnum=7
 GUID={3935F056-0886-43B8-8418-9B6C1BE7A5DA}
 name=Спутниковая
-name_en=Sattelite
+name_en=Satellite
 name_uk=Спутниковая
 ParentSubMenu=EcMaps
 ParentSubMenu_en=EcMaps

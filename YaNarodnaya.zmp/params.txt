@@ -9,7 +9,7 @@ ParentSubMenu=яндекс
 ParentSubMenu_en=Yandex
 ParentSubMenu_uk=яндекс
 NameInCache=yanarodnaya2
-DefURLBase=http://01.pvec.maps.yandex.net/?l=pmap&scale=2&lang=ru-RU&x=
+DefURLBase=http://##.pvec.maps.yandex.net/?l=pmap&scale=2&lang=ru-RU&x=
 ContentType=image/png
 Ext=.png
 projection=2
